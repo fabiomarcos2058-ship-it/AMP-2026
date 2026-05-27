@@ -9,3 +9,7 @@ while chances > 0:
         print("Você acertou a palavra, toma aqui uma batata 🥔")
         
         break
+# Explicação: Este código testa o comando 'break'. Ele te dá 5 chances num 
+# loop 'while' para acertar a palavra secreta ('batata'). Se você acertar o 
+# chute antes das chances zerarem, o 'break' quebra o loop imediatamente e 
+# encerra a execução com sucesso, sem precisar rodar o resto das tentativas.
