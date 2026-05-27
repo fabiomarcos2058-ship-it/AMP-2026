@@ -23,3 +23,7 @@ while True: # loop infinito
         break # Sai do loop infinito
     else:
         print("-> Opção inválida. Digite um número do cardápio.")
+        # Explicação: Simulando um caixa de cantina, este código cria um menu usando 
+# 'while True' (um loop que rodaria para sempre). Ele soma os preços das opções 
+# escolhidas numa variável acumuladora até o usuário selecionar a opção 4, 
+# que aciona o 'break' para finalmente quebrar o loop infinito e exibir a conta.
